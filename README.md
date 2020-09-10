@@ -1,5 +1,5 @@
 # simple-banking-system
-simple project that mimics credit card operations in banking
+Simple project that mimics credit card operations in banking
 
 Description
 
