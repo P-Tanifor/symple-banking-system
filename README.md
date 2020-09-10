@@ -20,4 +20,5 @@ The very first number is the Major Industry Identifier (MII), which tells you wh
 7 is issued by petroleum companies
 8 is issued by telecommunications companies
 9 is issued by national assignment
+
 In our banking system, credit cards should begin with 4.
